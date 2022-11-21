@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg">
 <div align="left">
 # 💫 About Me:
-👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning Full Stack Web Development<br>📫 How to reach me: <a href="#">pallavijainy0612@gmail.com</a><br>👯 Aspiring Web Developer....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about React,nodeJs,Express,Javascript, HTML, CSS, DSA 
+👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning Full Stack Web Development<br>📫 How to reach me: <a href="#">mdali91935@gmail.com</a><br>👯 Aspiring Web Developer....<br>👯 Self Motivated<br>⚡ Quick learner<br>💬 Ask me about React,nodeJs,Express,Javascript, HTML, CSS, DSA 
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,16 +40,13 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=
-pallavijainy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=
-pallavijainy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=
-pallavijainy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mdali-11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdali-11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdali-11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-<a href="https://github.com/mdali-11/github-readme-activity-graph"><img alt="Pallavi jain Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=pallavijainy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mdali-11/github-readme-activity-graph"><img alt="Md Ali's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mdali-11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
 <a href="https://github.com/mdali-11"><span>
