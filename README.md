@@ -5,7 +5,7 @@
       
    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Pallavi Jain <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujeetcoder&label=Profile%20views&color=9130c2&style=flat" alt="sujeet kumar" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=pallavijainy&label=Profile%20views&color=9130c2&style=flat" alt="pallavi jain" /> </p>
       
    <h3 align="center">Analytical and detail-oriented aspiring
 Full Stack Web Developer. Capable of
@@ -15,7 +15,7 @@ and intensely interested in working in a
 product-based company.
 </h3>
       
-   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+   
       
    <p align="center" color:"red">
      <a href="https://github.com/pallavijainy/readme-typing-svg">
@@ -35,9 +35,9 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1f7srg0f-D1FkOJAEHuZBpPid5K6fTe7q/view?usp=share_link" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1YAp-ywxagyg4lRCHMDKg6z4jAPTq8CEP/view?usp=sharing" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://pallavijainy.github.io" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://pallavijainy.github.io" target="_blank" >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
@@ -137,7 +137,7 @@ product-based company.
         <br/>
         <br/>
            <p align="center">                                                                                                 
-          <img alt="sujeetcoder Github Stats" src="https://github-readme-stats.vercel.app/api?username=pallavijainy&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
+          <img alt="pallavijainy Github Stats" src="https://github-readme-stats.vercel.app/api?username=pallavijainy&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
           </p>                                                                 
        <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
       
