@@ -124,29 +124,26 @@ product-based company.
       <hr />
       
       
-      <h2 align="center">📊 My Github Stats</h2>
-         <br/>   
-          <p align="center">      
-        <img alt="pallavijainy Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavijainy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-            </p>      
-           <br/>
-         <p align="center">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pallavijainy streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavijainy&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-        </p>                                                                                                                                              
-      
-        <br/>
-        <br/>
-           <p align="center">                                                                                                 
-          <img alt="pallavijainy Github Stats" src="https://github-readme-stats.vercel.app/api?username=pallavijainy&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
-          </p>                                                                 
-       <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-      
-      
-      <br/>
-      <br/>
-      
-     <p> <img alt="pallavijainy Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pallavijainy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </p>
-      
-      <br/>
-      <br/>
-      <br/>
+      # 🏆 GitHub Stats
+<div align="center" style="display: flex; gap:50px">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pallavijainy&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavijainy&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+
+</div>
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=pallavijainy&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+
+</div>
+
+ <img alt="Pallavi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pallavijainy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+ 
+
+
+![](https://github-profile-trophy.vercel.app/?username=pallavijainy&column=-1&theme=chalk&rank=-?&margin-w=15)
+
+<hr>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=pallavijainy&&style=flat-square)
