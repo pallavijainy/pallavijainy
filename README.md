@@ -68,7 +68,7 @@ product-based company.
       <hr />
       
       
-      <h2 align="center">🚀 Languages and Tools:</h2>
+      <!-- <h2 align="center">🚀 Languages and Tools:</h2>
       <br/>
       <div align="center">
        
@@ -121,10 +121,24 @@ product-based company.
       <br/>
       
       
-      <hr />
+      <hr /> -->
       
       
+      <h2 align="left">💻 Languages and Tools:</h2>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/> </a> 
+ <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="redux" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png" alt="chakra" width="40" height="40"/> </a>
+    <a href="https://www.npmjs.com/package/@material-ui/core" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="40" height="40"/> </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="next" width="40" height="40"/> </a>
+     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/> </a>
+</p>
+
       # 🏆 GitHub Stats
+
 <div align="center" style="display: flex; gap:50px">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pallavijainy&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
@@ -139,8 +153,6 @@ product-based company.
 </div>
 
  <img alt="Pallavi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pallavijainy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
- 
-
 
 ![](https://github-profile-trophy.vercel.app/?username=pallavijainy&column=-1&theme=chalk&rank=-?&margin-w=15)
 
