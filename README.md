@@ -51,14 +51,12 @@ product-based company.
       <br />
      <div align="center" >
       
-     <a href="https://www.linkedin.com/in/pallavijainy/" target="_blank">
+     <a href="https://www.linkedin.com/in/pallavi-jain-64442a23a/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
       <a href="https://pallavijainy.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
-      <a href="https://twitter.com/pallavijainy" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
       
       <a title="Pallavi-Jain" href="pallavijainy0612@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
