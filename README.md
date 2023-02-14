@@ -72,8 +72,8 @@ product-based company.
      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/> </a>
 </p>
 
-      # 🏆 GitHub Stats
-
+<h2 align="left"># 🏆 GitHub Stats</h2>
+     
 <div align="center" style="display: flex; gap:50px">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pallavijainy&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
