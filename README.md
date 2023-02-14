@@ -22,7 +22,8 @@ product-based company.
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Pallavi jain 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pallavijainy" alt="pallavijainy" /> </p>
+<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pallavijainy" alt="pallavijainy" /> </p> -->
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pallavijainy&column=-1&theme=chalk&rank=-?&margin-w=15" alt="pallavijainy" /> </p>
 </br>
 
 ## 🙋‍♂️ About Me
@@ -90,7 +91,7 @@ product-based company.
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=pallavijainy&theme=react-dark&hide_border=true" /></a>
 
-![](https://github-profile-trophy.vercel.app/?username=pallavijainy&column=-1&theme=chalk&rank=-?&margin-w=15)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=pallavijainy&column=-1&theme=chalk&rank=-?&margin-w=15) -->
 
 <hr>
 
