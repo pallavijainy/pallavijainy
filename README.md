@@ -25,46 +25,41 @@ product-based company.
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pallavijainy" alt="pallavijainy" /> </p>
 </br>
 
-  <div align="center">
+  <!-- <div align="center">
         <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="40%"/>
-      </div>
-      
-   ## 🙋‍♂️ About Me
-      
-   - 🔭 I’m currently pursuing Full Stack Web Development
-      
-   - 🌱 I’m currently learning at Masai
-      
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1YAp-ywxagyg4lRCHMDKg6z4jAPTq8CEP/view?usp=sharing" target="_blank" >Resume</a>
-      
-      - 💻 Know more about me <a href="https://pallavijainy.github.io" target="_blank" >Portfolio</a>
-      
-      - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
-      
-      - 📫 How to reach me *pallavijainy0612@gmail.com*
-      
-      
-      <hr />
-      
-      
-      <h2 align="center">📱 Connect with me</h2>
-      <br />
-     <div align="center" >
-      
-     <a href="https://www.linkedin.com/in/pallavi-jain-64442a23a/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
-      
-      <a href="https://pallavijainy.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
+      </div> -->
 
-     </div>
+## 🙋‍♂️ About Me
 
-      <hr />
+- 🔭 I’m currently pursuing Full Stack Web Development
+- 🌱 I’m currently learning at Masai
 
+  - 📄 Check out my <a href="https://drive.google.com/file/d/1YAp-ywxagyg4lRCHMDKg6z4jAPTq8CEP/view?usp=sharing" target="_blank" >Resume</a>
 
+  - 💻 Know more about me <a href="https://pallavijainy.github.io" target="_blank" >Portfolio</a>
 
+  - 💬 Ask me about _HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA_
 
-      <h2 align="left">💻 Languages and Tools:</h2>
+  - 📫 How to reach me *pallavijainy0612@gmail.com*
+
+   <hr />
+   
+   
+   <h2 align="center">📱 Connect with me</h2>
+   <br />
+  <div align="center" >
+   
+  <a href="https://www.linkedin.com/in/pallavi-jain-64442a23a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
+   
+   <a href="https://pallavijainy.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
+
+  </div>
+
+   <hr />
+
+   <h2 align="left">💻 Languages and Tools:</h2>
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="40" height="40"/> </a>
