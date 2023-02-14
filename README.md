@@ -22,26 +22,26 @@ product-based company.
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Pallavi jain 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pallavijainy" alt="pallavijainy" /> </p>
+       ## 🙋‍♂️ About Me
+
+
+- 🔭 I’m currently pursuing Full Stack Web Development
+- 🌱 I’m currently learning at Masai
+  - 📄 Check out my <a href="https://drive.google.com/file/d/1YAp-ywxagyg4lRCHMDKg6z4jAPTq8CEP/view?usp=sharing" target="_blank" >Resume</a>
+
+  - 💻 Know more about me <a href="https://pallavijainy.github.io" target="_blank" >Portfolio</a>
+
+  - 💬 Ask me about _HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA_
+
+  - 📫 How to reach me *pallavijainy0612@gmail.com*
+
 </br>
 
   <div align="center">
         <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="40%"/>
       </div>
       
-   ## 🙋‍♂️ About Me
-      
-   - 🔭 I’m currently pursuing Full Stack Web Development
-      
-   - 🌱 I’m currently learning at Masai
-      
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1YAp-ywxagyg4lRCHMDKg6z4jAPTq8CEP/view?usp=sharing" target="_blank" >Resume</a>
-      
-      - 💻 Know more about me <a href="https://pallavijainy.github.io" target="_blank" >Portfolio</a>
-      
-      - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
-      
-      - 📫 How to reach me *pallavijainy0612@gmail.com*
+  
       
       
       <hr />
